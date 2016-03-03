@@ -50,7 +50,7 @@ end
 gem 'foundation-rails', '~> 5.5'
 gem 'haml-rails'
 gem 'high_voltage'
-gem 'mysql2', '~> 0.3.18'
+
 gem 'omniauth'
 gem 'omniauth-facebook'
 gem 'simple_form'
